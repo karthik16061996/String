@@ -36,6 +36,7 @@ public static void main(String[] args) {
 	// change all letter of upper case
 	String up = s.toUpperCase();
 	System.out.println(up);
+	System.out.println("123546");
 	
 	// change all letter of lower case
 	String lw = s.toLowerCase();
